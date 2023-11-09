@@ -23,12 +23,12 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 author:
   name: "Jiangbei Hu"
   avatar: "images/android-chrome-512x512.png"
-  bio: "Lorem ipsum College"
+  bio: "Postdoctoral in NTU"
   location: "Singapore, Singapore"
   employer:
   pubmed:
-  googlescholar: "https://https://scholar.google.com/citations?user=6TG39EcAAAAJ&hl=en&oi=ao"
-  email: "jiangbei.hu@ntu.edu.sg (NTU); hjb941220@dlut.edu.cn (DLUT)"
+  googlescholar: "https://scholar.google.com/citations?user=6TG39EcAAAAJ&hl=en&oi=ao"
+  email: "jiangbei.hu@ntu.edu.sg"
   researchgate: # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
